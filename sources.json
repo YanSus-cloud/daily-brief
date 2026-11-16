@@ -1,0 +1,56 @@
+{
+  "sources": [
+    {
+      "name": "政策法规 · 国家能源局文件",
+      "type": "html",
+      "url": "https://www.nea.gov.cn/",
+      "url_prefix": "https://www.nea.gov.cn/",
+      "keywords": ["通知", "公告", "指导意见", "实施方案", "办法", "规划", "条例"],
+      "limit": 4
+    },
+    {
+      "name": "政策法规 · 国务院最新政策",
+      "type": "html",
+      "url": "https://www.gov.cn/zhengce/",
+      "url_prefix": "https://www.gov.cn/",
+      "keywords": ["国务院", "办公厅", "条例", "方案", "通知", "批复", "意见"],
+      "limit": 3
+    },
+    {
+      "name": "政策解读 · 产经观察",
+      "url": "https://www.eeo.com.cn/rss.xml",
+      "limit": 2
+    },
+    {
+      "name": "能源行业 · 天然气与油气",
+      "url": "https://www.naturalgasworld.com/rss",
+      "limit": 3
+    },
+    {
+      "name": "能源行业 · 油气工程",
+      "url": "https://www.offshore-energy.biz/feed/",
+      "limit": 2
+    },
+    {
+      "name": "能源行业 · 储能技术",
+      "url": "https://www.energy-storage.news/feed/",
+      "limit": 2
+    },
+    {
+      "name": "科技创新 · 创投动态",
+      "url": "https://www.36kr.com/feed",
+      "limit": 3
+    },
+    {
+      "name": "科技创新 · AI 前沿",
+      "url": "https://www.qbitai.com/feed",
+      "limit": 2
+    },
+    {
+      "name": "科技创新 · 技术资讯",
+      "url": "https://www.solidot.org/index.rss",
+      "limit": 2
+    }
+  ],
+  "note": "以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。"
+}
