@@ -12,10 +12,10 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
-- [禾元生物自研产品重组人白蛋白注射液（水稻）纳入国家医保目录](http://www.eeo.com.cn/2026/1116/1094235.shtml)
-  本次奥福民®被纳入国家医保目录，有利于进一步推动奥福民®的市场推广及销售，对公司的长期经营发展具有重要意义。
-- [上海FILA HOUSE正式开业，全球首家 FILA 运动时尚生活方式酒店亮相西虹桥](http://www.eeo.com.cn/2026/1116/1094205.shtml)
-  这座位于上海安踏中心、拥有108间客房与套房的生活方式酒店，以FILA特有的意式美学与活力、当代设计与社交精神，为西虹桥带来全新的运动时尚生活体验
+- [腾势N8大换代 “降维打击”大五座市场](http://www.eeo.com.cn/2026/1116/1094256.shtml)
+  全新一代腾势N8不是初代N8的升级，而是腾势对旗下产品做的一次梳理：把六座需求交给同平台的腾势N8L，全新一代腾势N8只做五座，用“砍掉低频第三排、把成本砸向前两排和底盘”的方式，进入一个此前被增程产…
+- [神龙科技与火山引擎达成全面战略合作 补足又一块智能化短板](http://www.eeo.com.cn/2026/1116/1094255.shtml)
+  神龙科技将全面拥抱AI。但从现实情况看，由于神龙科技入局较晚，如果不能在新能源汽车市场形成差异化的竞争优势，恐怕很难从激烈的竞争市场中赢得一席之地。
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
