@@ -1,0 +1,46 @@
+name: Daily Brief
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - content.md
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest content from RSS
+        run: python fetch_content.py
+
+      - name: Generate page
+        run: python generate.py
+
+      - name: Publish to site root
+        run: cp -r output/. .
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content.md index.html archive/
+          if ! git diff --staged --quiet; then
+            git commit -m "Update daily brief $(date -u +%Y-%m-%d) [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
