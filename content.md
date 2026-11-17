@@ -1,10 +1,10 @@
 # 每日咨询 · 自动抓取
 
 ## 政策法规 · 国家能源局文件
-- [中共中央印发《中国共产党地方委员会工作条例》](https://www.news.cn/politics/20261115/aac5a93da4fe438a99ce4bcd477d2e38/c.html)
 - [国家能源局综合司关于公示地热能高质量开发利用试点名单的通知](http://www.nea.gov.cn/20261116/3b255c14a250476faa893612d435a6a1/c.html)
 - [关于印发《“十五五”新型储能实施方案》的通知](https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html)
 - [国家能源局综合司关于公布《现代化用电营商环境“三个一批”建设典型案例清单》的通知](https://www.nea.gov.cn/20261109/dd6c5f3313a34d19ab874ec1dc5f75fa/c.html)
+- [国家能源局综合司关于做好电力企业安全生产费用提取和使用工作的通知](https://www.nea.gov.cn/20261105/b975e2363c024aad8c4a7926b83658ad/c.html)
 
 ## 政策法规 · 国务院最新政策
 - [中共中央印发《中国共产党地方委员会工作条例》](https://www.gov.cn/202611/content_7086080.htm)
@@ -12,6 +12,10 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
+- [因购置地块权属变动，安琪酵母食品原料三期项目投资由4.2亿降至1.8亿](http://www.eeo.com.cn/2026/1117/1095121.shtml)
+  11月17日，安琪酵母在公告中表示，因原项目规划购置地块权属发生变动，部分子项目已不具备实施条件，拟对项目方案进行调整。
+- [陈春花：岗位不会消失，角色正在生长](http://www.eeo.com.cn/2026/1117/1095086.shtml)
+  岗位真的会被角色完全替代吗？如果不会，岗位和角色之间到底是什么关系？在AI承担越来越多执行工作的今天，管理者如何设计这个“岗位+角色”的混合体系？这篇文章，我们聊聊AI时代人与组织的新逻辑。
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -34,12 +38,12 @@
   US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an un…
 
 ## 科技创新 · 创投动态
-- [8点1氪丨DeepSeek因算力不足限额；英伟达董事会没考虑让黄仁勋回公司担任CEO；AI演员代言美瞳广告被罚6.82万](https://36kr.com/p/4073099271230601?f=rss)
-  今日热点导览 阿里正式发布Qwen4，智能体及编程能力进阶 金饰价格连跌5个交易日，盘中跌破3900美元/盎司 三星将为SpaceX生产卫星芯片，目标2030年投入运行 大麦娱乐：因专注发展个人事业，…
-- [AI时代，TCL华星开始重新理解一块好屏](https://36kr.com/p/4071761698263939?f=rss)
-  当AI进入电脑，连屏幕的长宽比都可能发生变化。 在TCL科技集团高级副总裁、TCL华星首席执行官赵军看来，当用户需要与智能体对话，额外的显示面积就可能成为新需求。这也是TCL华星布局超宽屏的一个出发点…
-- [36氪专访｜《愤怒的小鸟》前全球营销副总裁、Smadex CMO：最先拉响警报的，是移动游戏的下载量](https://36kr.com/p/4063717266838400?f=rss)
-  今年上半年，中国自主研发游戏海外市场实际销售收入达到 123.72 亿美元，同比增长 30.22%。同期国内市场增长 12.17%。也就是说，出海的增速已经接近国内市场的 2.5 倍，很难再用“增量补…
+- [AI正在杀死游戏行业吗？| 游戏风向标](https://36kr.com/p/4073486195332226?f=rss)
+  文丨二几 在游戏行业，AI正在成为一场关于未来的“罗生门”：有人把AI视作生产力革命，有人担心AI将摧毁原有的开发者生态。支持和反对各执一词，谁也说不准哪一种未来会先到来。 GDC刚刚发布的《2026…
+- [业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效](https://36kr.com/p/4073327210304649?f=rss)
+  11月16日，爱奇艺（NASDAQ:IQ）发布2026年第三季度财报。报告期内，公司保持核心业务领先的同时，继续推进“转型长视频社交媒体”与“All in AI”两大战略。三季度，平台内容供给进一步扩…
+- [前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发](https://36kr.com/p/4072342767047814?f=rss)
+  作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式…
 
 ## 科技创新 · AI 前沿
 - [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
@@ -48,9 +52,9 @@
   12月1日，细数AI的未竟之问。
 
 ## 科技创新 · 技术资讯
-- [Robert Pattinson 成为第七任 007](https://www.solidot.org/story?sid=85905)
-  英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的…
-- [没有足够的植物纤维肠道细菌可能会吃你的肠道内壁](https://www.solidot.org/story?sid=85904)
-  植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为…
+- [Windows 收集用户计算机安装的编程智能体和开发工具](https://www.solidot.org/story?sid=85908)
+  一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe、copilot.exe 和 curso…
+- [美国超大规模数据中心的用电量与部分州的总用电量相当](https://www.solidot.org/story?sid=85907)
+  根据发表在《Nature Sustainability》期刊上的一项研究，美国超大规模数据中心的用电量与部分州的总用电量相当。超大规模数据中心为云计算、大模型训练以及 AI 工具的全球部署等服务提供支…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
