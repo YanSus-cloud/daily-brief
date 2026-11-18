@@ -12,10 +12,10 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
-- [因购置地块权属变动，安琪酵母食品原料三期项目投资由4.2亿降至1.8亿](http://www.eeo.com.cn/2026/1117/1095121.shtml)
-  11月17日，安琪酵母在公告中表示，因原项目规划购置地块权属发生变动，部分子项目已不具备实施条件，拟对项目方案进行调整。
-- [陈春花：岗位不会消失，角色正在生长](http://www.eeo.com.cn/2026/1117/1095086.shtml)
-  岗位真的会被角色完全替代吗？如果不会，岗位和角色之间到底是什么关系？在AI承担越来越多执行工作的今天，管理者如何设计这个“岗位+角色”的混合体系？这篇文章，我们聊聊AI时代人与组织的新逻辑。
+- [APEC时间｜全球创客“闯”深圳](http://www.eeo.com.cn/2026/1118/1096132.shtml)
+  在本次APEC深圳会议举办期间，记者采访了来自中国台北、泰国、韩国、美国的多位创业者。他们正切身感受着深圳的产业优势、政务便利与进取务实的城市气质，也在这里寻找着属于自己的创业机会。
+- [APEC时间｜向亚太进发：深圳金融解锁多元合作新范式](http://www.eeo.com.cn/2026/1118/1096127.shtml)
+  扎根深圳的保险、银行、证券、金融科技、资管等各类金融机构，正面向APEC成员经济体多层次开展金融实践。
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -26,35 +26,35 @@
   This report builds and expands on topics originally discussed in “U.S. LNG Exports: Truth and Conseq…
 
 ## 能源行业 · 油气工程
-- [ExxonMobil brings online its fifth oil project offshore Guyana](https://www.offshore-energy.biz/2026/11/16/exxonmobil-brings-online-its-fifth-oil-project-offshore-guyana)
-  The start-up of production at Uaru raises Guyana’s installed capacity to 1.1 million barrels per day…
-- [Seatrium on FPSO duty for ExxonMobil’s seventh oil project in Guyanese waters](https://www.offshore-energy.biz/2026/11/16/seatrium-on-fpso-duty-for-exxonmobils-seventh-oil-project-in-guyanese-waters)
-  MODEC has hired Seatrium for work on an FPSO bound for ExxonMobil’s $6.8 billion oil development off…
+- [Weatherford finds more work with Constellation in Brazil](https://www.offshore-energy.biz/2026/11/17/weatherford-finds-more-work-with-constellation-in-brazil)
+  Weatherford has strengthened its Brazilian market position with a deal for Constellation’s deepwater…
+- [2 GW link between Baltic States and Germany seeking Project of Common Interest s…](https://www.offshore-energy.biz/2026/11/17/2-gw-link-between-baltic-states-and-germany-seeking-project-of-common-interest-status)
+  Lithuania, Latvia and Germany have submitted an application for a 2 GW hybrid offshore electricity c…
 
 ## 能源行业 · 储能技术
-- [Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS](https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/)
-  US energy storage developer Flatiron Energy has broken ground on its 250MW/1,200MWh Energizar Energy…
-- [NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as …](https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/)
-  US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an un…
+- [US solar’s new makers, batteries for data centres and electrostates vs petrostat…](https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/)
+  The latest edition of PV Tech Power is available to download, full of exclusive content for the down…
+- [‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say](https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/)
+  There is limited benefit to questioning every decision made, but operators should be hands on with t…
 
 ## 科技创新 · 创投动态
-- [AI正在杀死游戏行业吗？| 游戏风向标](https://36kr.com/p/4073486195332226?f=rss)
-  文丨二几 在游戏行业，AI正在成为一场关于未来的“罗生门”：有人把AI视作生产力革命，有人担心AI将摧毁原有的开发者生态。支持和反对各执一词，谁也说不准哪一种未来会先到来。 GDC刚刚发布的《2026…
-- [业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效](https://36kr.com/p/4073327210304649?f=rss)
-  11月16日，爱奇艺（NASDAQ:IQ）发布2026年第三季度财报。报告期内，公司保持核心业务领先的同时，继续推进“转型长视频社交媒体”与“All in AI”两大战略。三季度，平台内容供给进一步扩…
-- [前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发](https://36kr.com/p/4072342767047814?f=rss)
-  作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式…
+- [我们为什么期待「GTA6」](https://36kr.com/p/4074910832137347?f=rss)
+  文丨刘士武 2026年11月19日，《Grand Theft Auto VI(GTA6)》将正式解禁，登陆PS5和Xbox Series X|S。这款玩家等待了十多年的顶级3A游戏，在上线前就取得了超…
+- [硬氪首发丨玻璃基板装备企业获近亿元融资，英诺基金连续三轮加注](https://36kr.com/p/4074564838659207?f=rss)
+  作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三…
+- [英伟达季度营收破千亿美金，但昨日的世界已经远去](https://36kr.com/p/4074562529645445?f=rss)
+  作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 在黄仁勋离职卷起的风暴眼中，英伟达交出了近年来可能最受瞩目的财报。 北京时间11月18日凌晨，英伟达发布2027财年第三季度…
 
 ## 科技创新 · AI 前沿
-- [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
-  具身智能的真正价值是“把人的经验、技能复刻出来”
-- [2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力](https://www.qbitai.com/2026/11/510526.html)
-  12月1日，细数AI的未竟之问。
+- [思维链一作Jason Wei离职！怎么去Meta待一年都跑路](https://www.qbitai.com/2026/11/510811.html)
+  入职Meta刚满一年出头，竟然直接提桶跑路了！
+- [英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿](https://www.qbitai.com/2026/11/510821.html)
+  具身全栈玩家
 
 ## 科技创新 · 技术资讯
-- [Windows 收集用户计算机安装的编程智能体和开发工具](https://www.solidot.org/story?sid=85908)
-  一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe、copilot.exe 和 curso…
-- [美国超大规模数据中心的用电量与部分州的总用电量相当](https://www.solidot.org/story?sid=85907)
-  根据发表在《Nature Sustainability》期刊上的一项研究，美国超大规模数据中心的用电量与部分州的总用电量相当。超大规模数据中心为云计算、大模型训练以及 AI 工具的全球部署等服务提供支…
+- [英伟达董事会拒绝黄仁勋复职](https://www.solidot.org/story?sid=85917)
+  尽管有美国总统和多位硅谷名人的支持，黄仁勋本人也发表声明准备重返岗位，但公司董事长 Harvey Jones 在财报电话会议上明确表示，董事会不打算让他复任首席执行官，“英伟达董事会已一致接受了他的辞…
+- [Google AI Overviews 导致搜索流量下降四成](https://www.solidot.org/story?sid=85916)
+  Google 的 AI Overviews 服务导致流向网站的搜索流量下降大约四成。在一项随机实验中，研究人员对部分美国桌面端用户隐藏了 AI Overviews。通过对比正常看到 AI Overvi…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
