@@ -12,10 +12,10 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
-- [长飞公司副总裁郑昕：以AI重塑生产范式，用光底座承载海量数据](http://www.eeo.com.cn/2026/1120/1098195.shtml)
-  郑昕表示，5G+工业互联网是新质生产力的重要载体，工业场景的数据爆发、大模型的普及，对光网络提出了更高标准。
-- [现货黄金跌破3600美元，年内跌幅超三成](http://www.eeo.com.cn/2026/1120/1098117.shtml)
-  11月20日，现货黄金盘中一度失守3520美元/盎司，日内跌幅一度达3%。
+- [余承东喊出“未来开车可以睡觉”，鸿蒙智行借享界新车卡位L3赛道](http://www.eeo.com.cn/2026/1121/1099058.shtml)
+  从市场效果看，享界V8的L3标签短期内有望帮助鸿蒙智行建立技术领先的用户认知。更值得关注的是，在L3相关法规全面落地后，享界V8的L3功能能否在首批开放的个人用户场景中稳定交付，以及北汽作为准入经验积…
+- [千台岚图梦想家9右舵版发运海外 搅局东南亚高端MPV市场](http://www.eeo.com.cn/2026/1121/1099057.shtml)
+  岚图梦想家9千台发运是其规模化交付的起点，但右舵市场的可持续份额最终取决于其本地化生产的节奏和深度。
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -26,35 +26,35 @@
   This report builds and expands on topics originally discussed in “U.S. LNG Exports: Truth and Conseq…
 
 ## 能源行业 · 油气工程
-- [$960 million deal enabling NEO NEXT+ to bring EnQuest’s UK North Sea business in…](https://www.offshore-energy.biz/2026/11/19/dollar960-million-deal-enabling-neo-next-to-bring-enquests-uk-north-sea-business-into-its-fold)
-  London Stock Exchange-listed energy firm EnQuest has decided to exit the UK upstream arena to streng…
-- [Wison and DNV shake hands on enhancing global energy project delivery](https://www.offshore-energy.biz/2026/11/19/wison-and-dnv-shake-hands-on-enhancing-global-energy-project-delivery)
-  This strategic pact is set on strengthening energy project delivery, boosting quality, and managing …
+- [Azule Energy wraps up divestment of two Angolan offshore blocks](https://www.offshore-energy.biz/2026/11/20/azule-energy-wraps-up-divestment-of-two-angolan-offshore-blocks)
+  Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition…
+- [FPSO revamp to begin next year as Navitas addresses contractor challenges](https://www.offshore-energy.biz/2026/11/20/fpso-revamp-to-begin-next-year-as-navitas-addresses-contractor-challenges)
+  Sea Lion oil development remains on track, according to Navitas, which is working to replace contrac…
 
 ## 能源行业 · 储能技术
-- [‘The biggest change is scale’: Giga Storage on evolution of BESS asset managemen…](https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/)
-  We hear from the head of market strategy &#038; public affairs for Netherlands-based BESS platform G…
-- [Data centre power buildouts are déjà vu for US storage integrators with off-grid…](https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/)
-  As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ hi…
+- [‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why …](https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/)
+  Sodium-ion (Na-ion) is continuing to gain traction as a legitimate "major chemistry" — with CATL, BY…
+- [Who’s gaining geopolitical advantage in the energy transition?](https://www.energy-storage.news/whos-gaining-geopolitical-advantage-in-the-energy-transition/)
+  Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitic…
 
 ## 科技创新 · 创投动态
-- [11月26日，WISE2026商业之王大会·具身智能&文商旅分会场落地北京亦庄。首批嘉宾阵容，今日正式揭晓！欢迎扫码报名，我们现场见。](https://36kr.com/p/4077464212542596?f=rss)
-  11月26日，36氪将联合欧氪律、氪睿研究院，在北京举办WISE2026商业之王大会·具身智能分会场，以“文商旅的‘赛博场景’：具身智能激活新消费赛道”为主题，聚焦文商旅等线下消费场景，汇集头部商管集…
-- [36氪首发丨中科院博士做二维半导体制造全流程产线设备，完成数千万天使轮融资](https://36kr.com/p/4077431786968198?f=rss)
-  作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 本文约2400字，建议阅读6分钟 硬氪获悉，国内覆盖二维半导体集成电路制造「生长—转移—检测」全流程的专用产线设备商「基元科…
-- [耐克终于给出了增长计划，但需要一点时间｜投资日现场直击](https://36kr.com/p/4076185723769984?f=rss)
-  拿回那些份额 一段让人目眩的快剪视频之后，身着黑色耐克飞行夹克贺雁峰（Elliott Hill）走上台，看上去精神不错。 “刚才那段影片是一扇窗，”他说，“让我们看到世界顶尖运动员真实的心态：迎难而上…
+- [最前线｜半导体业务成主线，TCL中环增持中环领先股权至98.52%](https://36kr.com/p/4078863230800768?f=rss)
+  近日，&nbsp;TCL中环（002129.SZ）公告称，拟向50名交易对方发行股份，购买中环领先65.80%的股份。交易完成后，其持股比例将由32.72%升至98.52%。 同时，本次购买资产的股份…
+- [9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市](https://36kr.com/p/4078827757310856?f=rss)
+  今日热点导览 上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量 英伟达市值被谷歌超越 12306重磅升级通知服务 马斯克试图与MAGA阵营切割 段永平：好公司未必要上市，字节6000亿美元…
+- [一届学生60万？外国玩家：想来中国上学了 | 玩点好的](https://36kr.com/p/4077807099057031?f=rss)
+  文丨句号 编辑丨果脯 “如果我是老师，我肯定不会对学生这么坏。” 可能是在被罚站时，也可能是被老师喊来家长后，这样的想法总是会瞬间被唤醒。《我带过的最差一届》（以下简称《最差一届》），一款非对称式派对…
 
 ## 科技创新 · AI 前沿
+- [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html)
+  国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。
 - [新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景](https://www.qbitai.com/2026/11/511603.html)
   11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。
-- [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
-  已开源Agnes Harness
 
 ## 科技创新 · 技术资讯
-- [大脑的言语感知中枢也能生成口语词汇](https://www.solidot.org/story?sid=85941)
-  大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损…
-- [Google 于 2027 年 1 月在全球实施 Android 开发者身份验证](https://www.solidot.org/story?sid=85940)
-  Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证…
+- [Anthropic 的数论学家声称证明黎曼猜想](https://www.solidot.org/story?sid=85949)
+  美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想…
+- [GTA 6 创游戏史上最高首日销售额](https://www.solidot.org/story?sid=85948)
+  根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
