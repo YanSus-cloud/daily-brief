@@ -12,6 +12,7 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
+- 抓取失败：URLError: <urlopen error [Errno 104] Connection reset by peer>
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -22,34 +23,35 @@
   This report builds and expands on topics originally discussed in “U.S. LNG Exports: Truth and Conseq…
 
 ## 能源行业 · 油气工程
-- [Azule Energy wraps up divestment of two Angolan offshore blocks](https://www.offshore-energy.biz/2026/11/20/azule-energy-wraps-up-divestment-of-two-angolan-offshore-blocks)
-  Etu Energias has strengthened its position in Angola’s offshore energy industry with the acquisition…
-- [FPSO revamp to begin next year as Navitas addresses contractor challenges](https://www.offshore-energy.biz/2026/11/20/fpso-revamp-to-begin-next-year-as-navitas-addresses-contractor-challenges)
-  Sea Lion oil development remains on track, according to Navitas, which is working to replace contrac…
+- [Germany secures 18-year supply of Norwegian gas with Equinor-VNG deal](https://www.offshore-energy.biz/2026/11/24/germany-secures-18-year-supply-of-norwegian-gas-with-equinor-vng-deal)
+  This is Equinor’s longest deal since 1986 and entails the supply of natural gas to Germany from 2027…
+- [$4.4 billion play for ConocoPhillips’ Norwegian oil & gas assets and UK infrastr…](https://www.offshore-energy.biz/2026/11/23/dollar44-billion-play-for-conocophillips-norwegian-oil-and-gas-assets-and-uk-infrastructure-expands-var-energis-north-sea-footprint)
+  Vår Energi is acquiring ConocoPhillips’ Norwegian business and related UK infrastructure, strengthen…
 
 ## 能源行业 · 储能技术
-- [‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why …](https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/)
-  Sodium-ion (Na-ion) is continuing to gain traction as a legitimate "major chemistry" — with CATL, BY…
-- [Who’s gaining geopolitical advantage in the energy transition?](https://www.energy-storage.news/whos-gaining-geopolitical-advantage-in-the-energy-transition/)
-  Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitic…
+- [Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP ca…](https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions/)
+  Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS productio…
+- [APA starts work on 104MWh solar-plus-storage project in Australia](https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia/)
+  APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in n…
 
 ## 科技创新 · 创投动态
-- [WISE2026「具身智能&文商旅」分会场议程公布](https://36kr.com/p/4082051861451648?f=rss)
-  机器人会跳舞、端咖啡、做导览，具身智能有了被看见的方式。 但对文商旅行业来说，真正值得讨论的不是机器人还能展示什么，而是当它进入购物中心、酒店与文旅空间后，怎样嵌入日常运营、创造持续价值，并与人、数据…
-- [WISE2026「了不起的OPC」分会场议程公布](https://36kr.com/p/4082049334695041?f=rss)
-  一个人做事，工具已经不是最大的门槛。 AI可以帮你写方案、做设计、搭应用，但它不会自动带来第一个客户，也不会直接告诉你：自己的哪项能力值得付费，怎样把一次合作变成持续获客。 对OPC来说，真正的问题早…
-- [完成三轮融资，99后创业者用AI重新定义投资交易｜36氪首发](https://36kr.com/p/4081907649942408?f=rss)
-  初见李不白，很难立刻把他和一家完成三轮融资的AI创业公司创始人联系起来。 他常年穿着公司的工服，春夏是短袖、卫衣，到了秋冬，觉得衣服不够穿了，就让公司再做一批外套。背着的也是一个旧双肩包。这个背包，他…
+- [国产大模型的黄仁勋变量](https://36kr.com/p/4083259280561031?f=rss)
+  文 | 李炤锋 温丽虹 编辑 | 张雨忻 今年 1 月，在北京举行的 AGI-Next 峰会上，智谱首席科学家唐杰提醒台下的开发者：美国公司手里还有未公开的模型，中美大模型的差距“说不定并没有缩小”。…
+- [企业AI最贵的账单，为什么不在模型采购单上？](https://36kr.com/p/4083178737439872?f=rss)
+  企业AI最贵的账单，往往不在模型采购单上。 Gartner在2026年5月发布的生成式AI技术成熟度曲线中判断：到2028年底，至少50%的生成式AI项目将因架构设计不当和运维能力缺失而突破预算上限。…
+- [从SFF看下一代支付：技术之外，信任才是核心变量](https://36kr.com/p/4082408874185606?f=rss)
+  作者｜王晗玉 编辑｜张帆 &nbsp; 当人工智能从辅助工具进化到可以代为生成指令、发起采购，商业交易的因果链条正被重新改写。 据机构预测，到2030年，智能体有望介入全球规模3-5万亿美元的消费商业…
 
 ## 科技创新 · AI 前沿
-- [Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖](https://www.qbitai.com/2026/11/511904.html)
-  用葡萄糖发电控制血糖。
-- [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html)
+- [Google Cloud 出海峰会报名开启](https://www.qbitai.com/2026/11/512370.html)
+  2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行
+- [业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型](https://www.qbitai.com/2026/11/512362.html)
+  端侧老炮辛米尔，打通物理AI规模化落地之路
 
 ## 科技创新 · 技术资讯
-- [Anthropic 到 2028 年使用的电力 98% 来自化石燃料](https://www.solidot.org/story?sid=85959)
-  美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调…
-- [Waymo 无人驾驶出租车因旧金山洪水而陷入困境](https://www.solidot.org/story?sid=85958)
-  无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden …
+- [解剖 Tor 协议](https://www.solidot.org/story?sid=85974)
+  Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费…
+- [Google 申请专利为用户量身定制 AI 电视频道](https://www.solidot.org/story?sid=85973)
+  Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
