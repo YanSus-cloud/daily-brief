@@ -12,8 +12,10 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
-- [正常损耗不扣押金 光写进合同还不够](http://www.eeo.com.cn/2026/1126/1104096.shtml)
-  修订稿第四条的变化是，增加了承租人正常使用产生的损耗，出租人不得据此扣减押金。
+- [深圳南山设自然科学基金 政府配资比例全国区级最高](http://www.eeo.com.cn/2026/1127/1105384.shtml)
+  21世纪经济报道记者 陈思琦 深圳报道在11月27日开幕的2026西丽湖论坛上，深圳市南山区正式发布《南山区自然科学基金管理办法》（以下简称《办法》）。21世纪经济报道记者获悉，基金聚焦基础研究和应用…
+- [驻马店最大超市爆雷，欢乐爱家涉嫌非吸：有员工十几万积蓄被套，初步偿债方案浮出水面](http://www.eeo.com.cn/2026/1127/1105346.shtml)
+  本文来源：时代财经 作者：陈泽旋“从事情发生到现在，都让去这登记、去那登记的，已经登记过好几次了。”河南驻马店最大超市品牌欢乐爱家的老员工王霖（化名）迟迟没能等来一个满意的解决方案，却等来了更大的变数…
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -27,29 +29,29 @@
 - 抓取失败：HTTPError: HTTP Error 429: Too Many Requests
 
 ## 能源行业 · 储能技术
-- [Fluence claims US production delays under control in first earnings call under t…](https://www.energy-storage.news/fluence-claims-us-production-delays-under-control-in-first-earnings-call-under-transformation-strategy/)
-  Fluence’s interim management team has provided details of the battery storage integrator’s transform…
-- [Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS](https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/)
-  A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada…
+- [Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develop…](https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/)
+  IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few…
+- [Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & Contour…](https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/)
+  Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty …
 
 ## 科技创新 · 创投动态
-- [科氪 | 全焦段 4K 超清 6 秒长实况，OPPO Reno17 系列拓展创作边界](https://36kr.com/p/4086256279972229?f=rss)
-  2026 年 11 月 16 日，中国·成都——OPPO 举办“OPPO Reno17 系列暨移动智能生态新品发布会”，正式推出全新一代潮流手机 OPPO Reno17 系列，并同步发布轻薄小方表 O…
-- [OBSBOT寻影发布三款新品，加速AI影像自动化落地｜最前线](https://36kr.com/p/4086154043009413?f=rss)
-  作者｜黄楠 编辑｜袁斯来 11月25日，智能影像品牌OBSBOT寻影发布寻影Tail 2先锋版、Tail Air 2与Meet 3三款新品，分别面向专业远距离拍摄、轻量化节目制作与桌面视讯场景。 影像…
-- [36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹](https://36kr.com/p/4085971424995714?f=rss)
-  作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 本文约4500字，建议阅读11分钟 硬氪获悉，AI声学感知公司「听好科技」（HearWell）近日完成两轮共数千万元融资，由…
+- [中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会](https://36kr.com/p/4087739263072896?f=rss)
+  机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。11月26日，WISE2026商业之王大会「具身智能&amp;文商旅」分会场在北京…
+- [问界入局换电，已立项换电版问界M6｜36氪独家](https://36kr.com/p/4087730299894153?f=rss)
+  36氪从多位产业人士处了解到，高端自主品牌问界将入局换电，已经立项了换电版问界M6。另有接近问界的行业人士表示，赛力斯的初步想法是，依托宁德时代的换电体系开发换电车型，双方正在洽谈更具体的合作模式。 …
+- [希音的韧性底色](https://36kr.com/p/4087683903814274?f=rss)
+  作者&nbsp;|&nbsp;明茵 对于9月份刚敲钟上市的希音（SHEIN）而言，三季度的意义是特殊的。 这是它上市后第一份完整季度财报，也是外部政策冲击最为集中的一个季度。欧盟取消低价值包裹关税豁免…
 
 ## 科技创新 · AI 前沿
-- [报名最后2天｜AI浪潮之中，来认识创造未来的人](https://www.qbitai.com/2026/11/512942.html)
-  12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。
-- [顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一](https://www.qbitai.com/2026/11/512916.html)
-  30秒一镜到底，可自动编排镜头
+- [刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑](https://www.qbitai.com/2026/11/513227.html)
+  地图能随时修，记忆能跨任务用
+- [钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间](https://www.qbitai.com/2026/11/513194.html)
+  企业需要有用的 AI
 
 ## 科技创新 · 技术资讯
-- [System76 释出 Pop!_OS 26.04 LTS](https://www.solidot.org/story?sid=85997)
-  System76 释出了基于 Ubuntu 26.04 LTS 的 Pop!_OS 26.04 LTS。主要变化包括：支持绘图板；初始设置或通过设置 Settings &gt; System &amp…
-- [欧几里得望远镜发现最遥远类星体](https://www.solidot.org/story?sid=85996)
-  ESA 欧几里得空间望远镜发现迄今观测到的距离最远的类星体。这个遥远天体的中心黑洞质量约为太阳的 3.6 亿倍。它发出的光来自宇宙大爆炸后仅 6.3 亿年的时期，为研究宇宙早期超大质量黑洞的形成与演化…
+- [物理学家使用重力发送无法屏蔽的信息](https://www.solidot.org/story?sid=86008)
+  昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫…
+- [极端高温引发地表淡水急剧下降](https://www.solidot.org/story?sid=86007)
+  根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
