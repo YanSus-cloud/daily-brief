@@ -1,10 +1,10 @@
 # 每日咨询 · 自动抓取
 
 ## 政策法规 · 国家能源局文件
+- [国家能源局公告 2026年第6号](http://www.nea.gov.cn/20261127/4b0e2def81bd4768a04d7f52203aada4/c.html)
 - [国家能源局关于加快推动流域水风光一体化发展的指导意见](https://www.nea.gov.cn/20261118/86aabd24d92d4eeb93dafb535f819650/c.html)
 - [关于印发《“十五五”新型储能实施方案》的通知](https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html)
 - [国家能源局综合司关于公布《现代化用电营商环境“三个一批”建设典型案例清单》的通知](https://www.nea.gov.cn/20261109/dd6c5f3313a34d19ab874ec1dc5f75fa/c.html)
-- [国家能源局综合司关于做好电力企业安全生产费用提取和使用工作的通知](https://www.nea.gov.cn/20261105/b975e2363c024aad8c4a7926b83658ad/c.html)
 
 ## 政策法规 · 国务院最新政策
 - [中共中央印发《中国共产党地方委员会工作条例》](https://www.gov.cn/202611/content_7086080.htm)
@@ -12,10 +12,7 @@
 - [中共中央发出通知 部署党的二十一大代表选举工作](https://www.gov.cn/202611/content_7085529.htm)
 
 ## 政策解读 · 产经观察
-- [深圳南山设自然科学基金 政府配资比例全国区级最高](http://www.eeo.com.cn/2026/1127/1105384.shtml)
-  21世纪经济报道记者 陈思琦 深圳报道在11月27日开幕的2026西丽湖论坛上，深圳市南山区正式发布《南山区自然科学基金管理办法》（以下简称《办法》）。21世纪经济报道记者获悉，基金聚焦基础研究和应用…
-- [驻马店最大超市爆雷，欢乐爱家涉嫌非吸：有员工十几万积蓄被套，初步偿债方案浮出水面](http://www.eeo.com.cn/2026/1127/1105346.shtml)
-  本文来源：时代财经 作者：陈泽旋“从事情发生到现在，都让去这登记、去那登记的，已经登记过好几次了。”河南驻马店最大超市品牌欢乐爱家的老员工王霖（化名）迟迟没能等来一个满意的解决方案，却等来了更大的变数…
+- 抓取失败：URLError: <urlopen error [Errno 104] Connection reset by peer>
 
 ## 能源行业 · 天然气与油气
 - [International Gas Union Calls for Clarity on the Role of Market Instruments for …](https://www.naturalgasworld.com/international-gas-union-calls-for-clarity-on-the-role-of-market-instruments-for-renewable-gases-119117)
@@ -29,29 +26,26 @@
 - 抓取失败：HTTPError: HTTP Error 429: Too Many Requests
 
 ## 能源行业 · 储能技术
-- [Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develop…](https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/)
-  IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few…
-- [Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & Contour…](https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/)
-  Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty …
+- [Continued operating losses for Narada Power as battery OEM falls to lowest Banka…](https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/)
+  The financial picture for China-based battery OEM Narada Power has continued to worsen, and this yea…
+- [BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and E…](https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/)
+  Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip fr…
 
 ## 科技创新 · 创投动态
-- [中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会](https://36kr.com/p/4087739263072896?f=rss)
-  机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。11月26日，WISE2026商业之王大会「具身智能&amp;文商旅」分会场在北京…
-- [问界入局换电，已立项换电版问界M6｜36氪独家](https://36kr.com/p/4087730299894153?f=rss)
-  36氪从多位产业人士处了解到，高端自主品牌问界将入局换电，已经立项了换电版问界M6。另有接近问界的行业人士表示，赛力斯的初步想法是，依托宁德时代的换电体系开发换电车型，双方正在洽谈更具体的合作模式。 …
-- [希音的韧性底色](https://36kr.com/p/4087683903814274?f=rss)
-  作者&nbsp;|&nbsp;明茵 对于9月份刚敲钟上市的希音（SHEIN）而言，三季度的意义是特殊的。 这是它上市后第一份完整季度财报，也是外部政策冲击最为集中的一个季度。欧盟取消低价值包裹关税豁免…
+- [鸿鹄未来能源联合创始人&CEO江澎：AI Infra的Infra——以仿星器，为 AI 与人类供给终局能源 | 36氪 2026WISE商业之王大会](https://36kr.com/p/4089044870003074?f=rss)
+  2026年的商业世界，正从「判断趋势」转向「回答问题」。11月26日至28日，36氪以「请以我的名字呼唤我」为主题，在北京亦庄举办WISE2026商业之王大会——第十四年，我们首次将会期拉长至三天，试…
+- [水面智能驾驶公司获数千万融资，加速近海无人作业平台落地｜硬氪首发](https://36kr.com/p/4081887385817988?f=rss)
+  作者｜黄楠 编辑｜袁斯来 硬氪获悉，水面智能驾驶公司「仓潮科技」近日完成数千万元天使++轮融资，由兴业证券旗下兴证资本、上市公司高华科技联合投资，这是公司2026年完成的第三轮融资。资金将重点投向近海…
+- [9点1氪丨DeepSeek或将推出付费模式；广电正式禁播电视开机广告；李斌：“速成车”是对国产车的污名化](https://36kr.com/p/4088718976268932?f=rss)
+  今日热点导览 晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应 丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧 爱马仕部分二手包价格暴跌 韩国高考作弊查处量激增，涉智能设备案件增至去年3…
 
 ## 科技创新 · AI 前沿
-- [刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑](https://www.qbitai.com/2026/11/513227.html)
-  地图能随时修，记忆能跨任务用
-- [钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间](https://www.qbitai.com/2026/11/513194.html)
-  企业需要有用的 AI
+- 抓取失败：URLError: <urlopen error timed out>
 
 ## 科技创新 · 技术资讯
-- [物理学家使用重力发送无法屏蔽的信息](https://www.solidot.org/story?sid=86008)
-  昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫…
-- [极端高温引发地表淡水急剧下降](https://www.solidot.org/story?sid=86007)
-  根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了…
+- [Kimi 向科学家提供最高 2 万美元 API 免费额度](https://www.solidot.org/story?sid=86015)
+  Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知…
+- [Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上](https://www.solidot.org/story?sid=86014)
+  GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的…
 
 > 以上内容自动抓取自公开信息源，仅供参考，具体以官方发布为准。
